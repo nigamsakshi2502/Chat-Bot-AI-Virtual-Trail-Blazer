@@ -32,7 +32,7 @@ To check implementation of this lab please refer to the following file in this p
                              cortanabot.js
 ```
 
-###Check implementation through following steps
+### Check implementation through following steps
 
 
 1. Open cortanabot.js file in SubLimeText Editor and provide Bot Framework App ID and Bot Framework App password in this section of code. (note : If you are working on local then specify Bot Framework App ID and Bot Framework App password  ).
