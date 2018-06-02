@@ -24,7 +24,7 @@ Over the course of this lab, we will collect various keys. It is recommended tha
 
 Note:Please refer following link to understand how to generate Bot Framework App ID and App password.  link :[Bot Registration](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-quickstart-registration?view=azure-bot-service-3.0).
 
-###How to Train QnaMaker Service
+### How to Train QnaMaker Service
 
 1.To understand how to train QnA Maker services using FAQ URLs and structured documents, please refer following link:[Train QnA](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-quickstart-registration?view=azure-bot-service-3.0).
 
