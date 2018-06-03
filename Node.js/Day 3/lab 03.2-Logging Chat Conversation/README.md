@@ -39,7 +39,7 @@ __code__: Contains all the code for the hands-on labs
 The order of Hands-on Labs to carry out the solution is as follows:
 1. [Middleware Logger](docs/Middleware-README.md):
 The aim of this hands-on lab is to implement the middleware functionality that writes message activities on console when running in debug. 
-2. [File Logger](docs/File Logger-README.md):
+2. [File Logger](docs/FileLogger-README.md):
 This hands-on lab is to demonstrate how you can log conversations to a file .
-3. [SQL Logger](docs/SQL Logger-README.md):
+3. [SQL Logger](docs/SqlLogger-README.md):
 This hands-on lab is to demonstrate how you can log conversations in SQL.
