@@ -48,7 +48,7 @@ To check the implementation of this lab please refer to the following file in th
 
   -The following screenshot shows the results of this chatbot running in the Bot Framework Channel Emulator.
 
-![userinputbot2](https://user-images.githubusercontent.com/31923904/40712514-8af4a094-641b-11e8-9b5f-9d989526138e.png)
+![userinputbot1](https://user-images.githubusercontent.com/31923904/40911934-cc86d81a-680d-11e8-87a6-7d0cf89c4c6e.png)
 
                                     
 

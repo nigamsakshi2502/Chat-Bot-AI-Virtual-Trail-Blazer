@@ -45,7 +45,7 @@ To the check implementation of this lab please refer to the following file in th
 
   -The following screenshot shows the results of this chatbot running in the Bot Framework Channel Emulator.
 
-![waterfallbot](https://user-images.githubusercontent.com/31923904/40704506-ed7434a2-6405-11e8-99a1-72990c6dc47d.png)
+![waterfallbot](https://user-images.githubusercontent.com/31923904/40911940-d077b750-680d-11e8-97f8-c665a8edbc4c.png)
                                     
 
 

@@ -51,4 +51,5 @@ To check implementation of this lab please refer to the following file in this p
 
   -The following screenshot shows the results of this chatbot running in the Bot Framework Channel Emulator.
 
-![cortana](https://user-images.githubusercontent.com/31923904/40777221-e1106dc6-64ea-11e8-94c4-5930222a6141.png)
+![untitled](https://user-images.githubusercontent.com/31923904/40918034-c7a8ac0a-6822-11e8-83aa-6f259a33cc5f.png)
+

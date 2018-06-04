@@ -44,7 +44,5 @@ To check implementation of this lab please refer to the following file in this p
 ![adaptivecardbot_1](https://user-images.githubusercontent.com/31923904/39426248-c4a8f204-4c9c-11e8-8bce-08e1ab5751b4.jpg)
 
   -The following screen-shot shows the result of this chat bot running in the Bot Framework Channel Emulator.
-![userinput1](https://user-images.githubusercontent.com/31923904/40771530-32804b3c-64db-11e8-938b-46921f2c7ff6.png)
-
-
+![userinput_1](https://user-images.githubusercontent.com/31923904/40917827-331138d2-6822-11e8-81ff-9d85b738bbdb.png)
 

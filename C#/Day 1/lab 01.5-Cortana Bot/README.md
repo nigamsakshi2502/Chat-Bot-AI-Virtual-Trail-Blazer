@@ -49,7 +49,7 @@ To check implementation of this lab please refer to the following file in this p
 
   -The following screenshot shows the results of this chatbot running in the Bot Framework Channel Emulator.
 
-![cortanabot](https://user-images.githubusercontent.com/31923904/40821801-8ed51e02-6586-11e8-87b5-e4e0f8530ea3.png)
+![cortanabot](https://user-images.githubusercontent.com/31923904/40911930-c94ed472-680d-11e8-9c54-932e4a719370.png)
                                     
 
 
